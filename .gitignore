@@ -1,0 +1,19 @@
+# Unreal Engine generated folders (NE JAMAIS VERSIONNER)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE / tooling
+.vscode/
+.idea/
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
